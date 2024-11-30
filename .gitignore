@@ -1,0 +1,4 @@
+.venv/
+.vscode/
+input.txt
+test.txt
